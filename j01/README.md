@@ -22,4 +22,4 @@ I then moved on to another goal, looking for a locking mechanism for the swivel.
 <img src="hanger.jpg" alt="sketch_1" width="400"/>
 
 
-Overall the item shows good **readability**, and **learnability**, which allowed me to, other than the timer, figure out the product very fast.
+Overall the item shows good **readability**, and **learnability**, which allowed me to, other than the timer, figure out the product very fast. Though I feel one place they could do better is in the remote, if you look it has spots for buttons that do nothing. They dont click, which means there is not button underneath, its just a sticker.
