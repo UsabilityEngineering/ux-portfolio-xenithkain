@@ -1,4 +1,4 @@
-# Caleb's UX Portfolio
+# Caleb Besser's UX Portfolio
 
 ![alt text](/assets/my_Picture.jpg)
 
