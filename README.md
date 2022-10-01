@@ -13,4 +13,4 @@ I am planning on getting my bachelors in Computer Science.
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Read about my experience with my Fan](j01/)
